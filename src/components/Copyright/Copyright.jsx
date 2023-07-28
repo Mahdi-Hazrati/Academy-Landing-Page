@@ -10,7 +10,7 @@ export default function Copyright(){
                 Code with <AiFillHeart className="icon" /> By <a href="https://mahdi-hazrati.github.io/">Mahdi Hazrati</a>
                 and <CgFigma className="icon" /> UI Made By <a href="https://www.captain-design.com/">Captain Design</a>.
             </div>
-            <a href="https://Github.com/Mahdi-Hazrati/Academy-Landing-React-App" className="github-icon">
+            <a href="https://github.com/Mahdi-Hazrati/Academy-Landing-Page" className="github-icon">
                 <AiFillGithub className="icon" />
                 Source Code On Github
             </a>
